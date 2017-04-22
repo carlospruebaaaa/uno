@@ -1,2 +1,2 @@
-# primer comentario
 # segundo comentario
+# eliminado primer comentario
